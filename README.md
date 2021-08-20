@@ -1,8 +1,10 @@
-### Oi! Eu sou o Matheus Muniz 👨🏾‍💻
+### Hi there! I'm Matheus Muniz 👨🏾‍💻
 
-- 👨🏾‍🎓 Estudando: Sistemas de Informação no IFF;
-- 🌱 Aprendendo: Kotlin, Java;
-- 🎒 Principais Ferramentas: Android Studio, Visual Studio Code e GitHub;
+- 👨🏾‍🎓 Studying: Information Systems at IFF;
+
+- 🌱 Learning: Kotlin, Java;
+
+- 🎒 Main Tools: Android Studio, Visual Studio Code e GitHub;
 
 ##
 
