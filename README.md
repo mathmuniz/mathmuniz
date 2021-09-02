@@ -1,10 +1,12 @@
-### Hi there! I'm Matheus Muniz 👨🏾‍💻
+# Hi there! I'm Matheus Muniz 👨🏾‍💻
 
 - 👨🏾‍🎓 Studying: Information Systems at IFF;
 
-- 🌱 Learning: Kotlin, Java;
+- 🚀 Skills: Mobile Development (Android);
 
-- 🎒 Main Tools: Android Studio, Visual Studio Code e GitHub;
+- 🌱 Learning: Kotlin and Java;
+
+- 💻 Tools: Android Studio and Git;
 
 ##
 
@@ -22,7 +24,6 @@
   
   </div>
   <a href="https://www.linkedin.com/in/matheus-muniz-48b2a8201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "maito: mmuniz605@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
  ![Snake animation](https://github.com/mathmuniz/mathmuniz/blob/output/github-contribution-grid-snake.svg)
