@@ -1,4 +1,4 @@
-## Hello World! Eu sou o Matheus Muniz 👨🏾‍💻
+## Hi there, I am Matheus Muniz 👨🏾‍💻
 
 <div>
   <a href="https://github.com/mathmuniz">
